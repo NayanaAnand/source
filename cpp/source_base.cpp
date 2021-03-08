@@ -19,7 +19,7 @@ source_base::source_base(const char *uuid, const char *label) :
     loadProperties();
 
     output = new bulkio::OutShortPort("output");
-    output->setLogger(this->_baseLog->getChildLogger("output", "ports"));
+    //output->setLogger(this->_baseLog->getChildLogger("output", "ports"));
     addPort("output", output);
 }
 
