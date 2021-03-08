@@ -1,0 +1,10 @@
+c51e2cd299dd7718550fac05a0da8bbc  source.h
+b500fe57c59fe0dcb52b94df8fc3a454  main.cpp
+c63a686e91ce496ecbc5bfbeb8e92d19  source_base.cpp
+8bfcd22353c3a57fee561ad86ee2a56b  reconf
+b9daf9ffd4a7d83a8ed9135bbcb4ca34  source_base.h
+fa4f07df76cb91700c384f0038422b79  configure.ac
+cd583ec8862bad30d5f92be7f000f981  Makefile.am
+9c59d2a65ed37d63e1d87b9c97c53922  Makefile.am.ide
+34d3cbf9056abf3d76ae6759015f9f80  source.cpp
+2b2faa5cfc83438427491f4be5d6ee59  build.sh
